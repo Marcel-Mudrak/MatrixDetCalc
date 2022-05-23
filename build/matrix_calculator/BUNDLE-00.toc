@@ -1,0 +1,3 @@
+([('matrix_calculator',
+   '/Users/marcel/Desktop/Studia/Projects/MatrixDeterminant/dist/matrix_calculator',
+   'EXECUTABLE')],)
